@@ -276,3 +276,4 @@ def update():
     
 def draw():
     game.draw()
+yuri kobayashi yuri kobayashi yuri kobayashi yuri kobayashi
