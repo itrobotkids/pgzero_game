@@ -1,7 +1,7 @@
 from pygame.time import get_ticks
 
 # Some 'constants' used in the game
-
+#tekito-
 WIDTH = 480
 HEIGHT = 600
 TITLE = '---=== SPACE INVADERS ===---'
