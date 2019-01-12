@@ -13,4 +13,6 @@ Credits for efx sounds from SoundBible.com
 - [winner sound](http://soundbible.com/480-Kids-Cheering.html)
 - [loser sound](http://soundbible.com/1810-Wind.html)
 
-[Space Invaders sounds](http://samples.mameworld.info/Unofficial%20Samples.htm)
+[Space Invaders sounds](http://samples.mameworld.info/Unofficial%20Samples.
+
+Yuri Kobayashi
