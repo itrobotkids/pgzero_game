@@ -12,15 +12,6 @@ CANNON_FIRING_INTERVAL = 300
 
 BULLET_SPEED = 20
 
-<<<<<<< HEAD
-ALIEN_MAX_MOVEMENT = 50
-ALIEN_X_SPEED = 1
-ALIEN_Y_SPEED = 7
-ALIEN_LIVES = 1
-LEFTMOST_ALIEN_X = 60
-TOP_ALIEN_Y = 40
-ALIEN_ROWS = 7
-=======
 ALIEN_MAX_MOVEMENT = 40
 ALIEN_X_SPEED = 3
 ALIEN_Y_SPEED = 7
@@ -28,7 +19,6 @@ ALIEN_LIVES = 1
 LEFTMOST_ALIEN_X = 60
 TOP_ALIEN_Y = 10
 ALIEN_ROWS = 5
->>>>>>> b83490f7cbe47447b7acedb26835d152819d69ee
 ALIENS_PER_ROW = 7
 ALIEN_X_DISTANCE = 60
 ALIEN_Y_DISTANCE = 40
@@ -285,8 +275,4 @@ def update():
     game.update()
     
 def draw():
-<<<<<<< HEAD
     game.draw()
-=======
-    game.draw()
->>>>>>> b83490f7cbe47447b7acedb26835d152819d69ee
